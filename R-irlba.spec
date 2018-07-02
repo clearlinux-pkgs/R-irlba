@@ -4,7 +4,7 @@
 #
 Name     : R-irlba
 Version  : 2.3.2
-Release  : 10
+Release  : 11
 URL      : https://cran.r-project.org/src/contrib/irlba_2.3.2.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/irlba_2.3.2.tar.gz
 Summary  : Fast Truncated Singular Value Decomposition and Principal
