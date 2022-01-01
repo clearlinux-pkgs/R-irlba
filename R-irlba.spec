@@ -4,7 +4,7 @@
 #
 Name     : R-irlba
 Version  : 2.3.5
-Release  : 41
+Release  : 42
 URL      : https://cran.r-project.org/src/contrib/irlba_2.3.5.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/irlba_2.3.5.tar.gz
 Summary  : Fast Truncated Singular Value Decomposition and Principal
@@ -34,10 +34,10 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1638827892
+export SOURCE_DATE_EPOCH=1641038356
 
 %install
-export SOURCE_DATE_EPOCH=1638827892
+export SOURCE_DATE_EPOCH=1641038356
 rm -rf %{buildroot}
 export LANG=C.UTF-8
 export CFLAGS="$CFLAGS -O3 -flto -fno-semantic-interposition "
